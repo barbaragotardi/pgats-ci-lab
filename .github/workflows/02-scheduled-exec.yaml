@@ -1,7 +1,7 @@
-# CI de nivel 01: Disparo manual a partir de 1 clique
+# CI de nivel 01: Disparo agendado
 
 # Nome do nosso pipeline
-name: 'Execução Manual'
+name: 'Execução Agendado'
 
 # Regras de disparo (gatilhos/triggers)
 on:
