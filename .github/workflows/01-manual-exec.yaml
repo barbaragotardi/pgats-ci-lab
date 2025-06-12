@@ -27,19 +27,19 @@ jobs:
         node-version: latest
 
     # instalação yarn
-    nome: Instalando yarn
+    name: Instalando yarn
     run: npm install -g yarn
 
     # instalação de dependencias
-    nome: Instalando dependências
+    name: Instalando dependências
     run: yarn
 
     # instalação playwright
-    nome: Instalando playwright
+    name: Instalando playwright
     run: yarn playwright install
 
     # executar os testes e2e
-    nome: Executando testes E2E
+    name: Executando testes E2E
     run: yarn run e2e
 
     
