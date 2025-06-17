@@ -1,4 +1,4 @@
-# CI de nivel 01: Disparo agendado
+# CI de nivel 02: Disparo agendado
 
 # Nome do nosso pipeline
 name: 'Execução Agendado'
